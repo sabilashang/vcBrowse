@@ -28,10 +28,10 @@
 ## 🖥️ Usage:
 1. **Run the Script**: ```python vcBrowse.py```
 2. **Voice Commands**:
-  - "search [query]": Searches for the specified query on Google.
-  - "type [text]": Types the specified text into the search box.
-  - "delete": Deletes the last word typed.
-  - "thank you for your service": Terminates the program.
+   - "search [query]": Searches for the specified query on Google.
+   - "type [text]": Types the specified text into the search box.
+   - "delete": Deletes the last word typed.
+   - "thank you for your service": Terminates the program.
 
 ## 📝 Example Commands
   - "search weather today" – Searches for the weather today on Google.
