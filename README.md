@@ -2,7 +2,7 @@
 
 **vcBrowse** is a voice-controlled browser automation script that lets you perform searches, type text, and delete text using voice commands, integrating Google Speech Recognition with Selenium for seamless browser interactions🎙️💻
 
-## Features
+## 🚀 Features
 - 🔍 **Voice Search**: Perform web searches by speaking your query.
 - ⌨️ **Voice Typing**: Type text into the browser with voice commands.
 - 🗑️ **Voice Deletion**: Delete the last word using your voice.
