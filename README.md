@@ -27,7 +27,7 @@
 
 ## 🖥️ Usage:
 1. **Run the Script**:
-  - ```python voice_browser.py```
+  - ```python vcBrowse.py```
 2. **Voice Commands**:
   - "search [query]": Searches for the specified query on Google.
   - "type [text]": Types the specified text into the search box.
@@ -42,7 +42,6 @@
 
 ## ⚠️ License:
 This project is under No License: This code is for personal use only. Copying, modifying, or using this code for academic, commercial, or other purposes is not permitted. Feel free to reach out if required permission to reuse
-
 
 ## 📫 Contact:
 Feel free to reach out if you have any questions!
