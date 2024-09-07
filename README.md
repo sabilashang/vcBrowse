@@ -26,8 +26,7 @@
 4. Download [Chrome WebDriver](https://sites.google.com/chromium.org/driver/downloads?authuser=0)
 
 ## 🖥️ Usage:
-1. **Run the Script**:
-  - ```python vcBrowse.py```
+1. **Run the Script**: ```python vcBrowse.py```
 2. **Voice Commands**:
   - "search [query]": Searches for the specified query on Google.
   - "type [text]": Types the specified text into the search box.
