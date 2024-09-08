@@ -16,7 +16,7 @@
 
 ## 🔧 Setup:
 1. Clone the repository and navigate to the folder
-   - ```git clone https://github.com/yourusername/vcBrowse.git```
+   - ```git clone https://github.com/sabilashang/vcBrowse.git```
    - ```cd vcBrowse```
 2. Create and Activate a Virtual Environment
    - ```python -m venv .venv```
